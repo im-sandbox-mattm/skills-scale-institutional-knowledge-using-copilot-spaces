@@ -4,8 +4,8 @@ Welcome to the OctoAcme Project Management Documentation! This collection of gui
 
 ## How to Use These Docs
 
-- **New Team Members**: Start with the [Project Management Overview](#documentation) to understand our core principles and approach, then explore the [Roles & Personas](#documentation) to understand your responsibilities.
-- **Project Managers**: Reference the step-by-step guides for [Project Initiation](#documentation), [Planning](#documentation), [Execution & Tracking](#documentation), and [Release & Deployment](#documentation) as you manage your projects.
+- **New Team Members**: Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our core principles and approach, then explore the [Roles & Personas](octoacme-roles-and-personas.md) to understand your responsibilities.
+- **Project Managers**: Reference the step-by-step guides for [Project Initiation](octoacme-project-initiation.md), [Planning](octoacme-project-planning.md), [Execution & Tracking](octoacme-execution-and-tracking.md), and [Release & Deployment](octoacme-release-and-deployment.md) as you manage your projects.
 - **All Team Members**: Use these documents as a single source of truth for processes, communication protocols, and quality standards.
 
 ## Overview
